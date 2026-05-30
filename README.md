@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/zorexq/lain-bot/blob/main/assets/lain.png" alt="Lain Bot" width="180"/>
+  <img src="https://github.com/zorexw/lain-bot/blob/main/assets/lain.png" alt="Lain Bot" width="180"/>
 </p>
 
 <h1 align="center">✨ Lain Bot ✨</h1>
@@ -57,7 +57,7 @@
 <summary>Bot in action</summary>
 ⠀
 
-![Illustration](https://github.com/zorexq/lain-bot/blob/main/assets/illustration.png)
-![Illustration 2](https://github.com/zorexq/lain-bot/blob/main/assets/illustration_2.png)
+![Illustration](https://github.com/zorexw/lain-bot/blob/main/assets/illustration.png)
+![Illustration 2](https://github.com/zorexw/lain-bot/blob/main/assets/illustration_2.png)
 
 </details>
