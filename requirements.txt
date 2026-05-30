@@ -1,0 +1,7 @@
+discord.py[speed]
+python-dotenv
+pydantic
+pydantic-settings
+aiocache
+rapidfuzz
+async-cache
